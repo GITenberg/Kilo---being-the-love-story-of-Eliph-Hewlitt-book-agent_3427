@@ -1,0 +1,26 @@
+_repo: Kilo---being-the-love-story-of-Eliph-Hewlitt-book-agent_3427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butler, Ellis Parker
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '585'
+    url: http://www.gutenberg.org/2009/agents/585
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
+description: ''
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Book industries and trade -- Fiction'
+- GITenberg
+title: 'Kilo : being the love story of Eliph'' Hewlitt, book agent'
+url: http://www.gutenberg.org/ebooks/3427
