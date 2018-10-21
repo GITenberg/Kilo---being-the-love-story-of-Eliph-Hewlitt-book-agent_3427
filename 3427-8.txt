@@ -1,9 +1,9 @@
 The Project Gutenberg EBook of Kilo, by Ellis Parker Butler
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
 
 Title: Kilo
@@ -11,8 +11,8 @@ Title: Kilo
 
 Author: Ellis Parker Butler
 
-Posting Date: February 9, 2009 [EBook #3427]
-Release Date: September, 2002
+Release Date: February 9, 2009 [EBook #3427]
+Last Updated: October 20, 2014
 
 Language: English
 
@@ -23,7 +23,11 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Linda P. Kemper-Holzman
+Produced by Linda P. Kemper-Holzman, and David Widger
+
+
+
+
 
 
 
@@ -38,27 +42,33 @@ By Ellis Parker Butler
 
 
 
-CONTENTS
 
-     I.    Eliph' Hewlitt
-     II.   Susan
-     III.  "How to Win the Affections"
-     IV.   Kilo
-     V.    Sammy Mills
-     VI.   The Castaway
-     VII.  The Colonel
-     VIII. The Medium-sized Box
-     IX.   The Witness
-     X.     The Boss Grafter
-     XI.    The False Gods of Doc Weaver
-     XII.   Getting Acquainted
-     XIII. "Second: a Small Present"
-     XIV.   Something Turns Up
-     XV.    Difficulties
-     XVI.   Two Lovers, and a Third
-     XVII.  According to Jarby's
-     XVIII. Another Trial
-     XIX.   Pap Briggs' Hen Food
+
+Contents
+
+KILO
+
+   CHAPTER I.   Eliph' Hewlitt
+   CHAPTER II.   Susan
+   CHAPTER III.   "How to Win the Affections"
+   CHAPTER IV.   Kilo
+   CHAPTER V.   Sammy Mills
+   CHAPTER VI.   The Castaway
+   CHAPTER VII.   The Colonel
+   CHAPTER VIII.  The Medium-Sized Box
+   CHAPTER IX.   The Witness
+   CHAPTER X.   The Boss Grafter
+   CHAPTER XI.   The False Gods of Doc Weaver
+   CHAPTER XII.   Getting Acquainted
+   CHAPTER XIII.   "Second: A Small Present"
+   CHAPTER XIV.   Something Turns Up
+   CHAPTER XV.   Difficulties
+   CHAPTER XVI.   Two Lovers, and a Third
+   CHAPTER XVII.   According to Jarby's
+   CHAPTER XVIII.      Another Trial
+   CHAPTER XIX.   Pap Briggs' Hen Food
+
+
 
 
 
@@ -67,8 +77,8 @@ KILO
 
 
 
-CHAPTER I. Eliph' Hewlitt
 
+CHAPTER I. Eliph' Hewlitt
 
 Eliph' Hewlitt, book agent, seated in his weather-beaten top buggy,
 drove his horse, Irontail, carefully along the rough Iowa hill road that
@@ -100,7 +110,7 @@ beneath that tail but to ignore it. In an hour or so Irontail would
 grow forgetful, carelessly begin flapping flies, and release the rein
 himself.
 
-Eliph' Hewlitt unwrapped the oilcloth from the object in enfolded. It
+Eliph' Hewlitt unwrapped the oilcloth from the object it enfolded. It
 was a book. It was Jarby's 'Encyclopedia of Knowledge and Compendium of
 Literature, Science, Art, Comprising Useful Information on One Thousand
 and One Subjects, Including A History of the World, the Lives of all
@@ -111,7 +121,7 @@ gilt-stamped cover, and then opened it at random and read.
 
 For years he had been reading Jarby's Encyclopedia, and among its ten
 thousand and one subjects he always found something new. It opened now
-at "Courtship-How to Make Love--How to Win the Affections--How to Hold
+at "Courtship--How to Make Love--How to Win the Affections--How to Hold
 Them When Won," and although he had read the pages often before, he
 found in all parts of the book, whenever he read it, a new meaning.
 It occurred to him that even a book agent might have reason to use the
@@ -184,7 +194,7 @@ month until paid."
 
 He paused, and the lady looked at him with an amused smile.
 
-"Of seven fifty, handsomely bound in morocco," he added. "So you see I
+"Or seven fifty, handsomely bound in morocco," he added. "So you see I
 don't feel like I ought to impose. I know how I am. You take my mother
 now. She hadn't seen me for eight years. I'd been traveling all over
 these United States, carrying knowledge and culture into the homes
@@ -272,8 +282,9 @@ until paid. As I might say."
 
 
 
-CHAPTER II. Susan
 
+
+CHAPTER II. Susan
 
 Mrs. Tarbro-Smith had arranged the picnic herself, hoping to bring a
 little pleasure into the dullness of the summer, enliven the interest in
@@ -322,7 +333,7 @@ them.
 The truth was that, in her eagerness to secure the most vivid kind of
 local color, she had gone a step too far. Clarence, with its decayed
 sidewalks and rotting buildings, was not typical of middle Iowa any more
-than a stagnant pool lift by a receded river after a flood is typical
+than a stagnant pool left by a receded river after a flood is typical
 of the river itself. Before the days of railroads Clarence had been
 a lively little town, but it was on the top of a hill, and, when the
 engineer of the Jefferson Western Railroad had laid his ruler on the map
@@ -632,8 +643,9 @@ and he felt that no more delay was necessary in disposing of his heart.
 
 
 
-CHAPTER III. "How to Win the Affections"
 
+
+CHAPTER III. "How to Win the Affections"
 
 Miss Sally glanced hurriedly around, seeking some retreat to which she
 could fly. Mrs. Smith, having introduced Eliph' Hewlitt, had turned
@@ -664,7 +676,7 @@ father's pocket was all she could stand.
 
 Why and how she bought books always remained a mystery to her; it is a
 mystery to many book buyers how they happen to buy books. Book agents
-seemed to have a mesmerizing effect on Miss sally, as serpents daze
+seemed to have a mesmerizing effect on Miss Sally, as serpents daze
 birds before they devour them. The process applied between the time when
 she stated with the utmost positiveness that she did not want, and would
 not buy, a book, and the time, a few minutes later, when she signed her
@@ -1004,8 +1016,9 @@ five dollars, and two bound in morocco, at seven fifty.
 
 
 
-CHAPTER IV. Kilo
 
+
+CHAPTER IV. Kilo
 
 The next evening Jim Wilkins, landlord of the Kilo House and proprietor
 of the Kilo Livery, Feed and Sale Stable, was sitting in front of his
@@ -1126,7 +1139,7 @@ The landlord broke in upon the conversation with sudden energy.
 up," and S. Potts and Daniel hastily clambered into the buggy and drove
 around the corner.
 
-"I wonder if anything's the mater with my horse?" said Eliph'.
+"I wonder if anything's the matter with my horse?" said Eliph'.
 
 "Matter?" laughed Jim Wilkins. "That's just S. Potts tryin' to show off
 before strangers, like he always does. He don't mean no harm, but he
@@ -1351,11 +1364,12 @@ arm, and hurried away with brisk little steps.
 
 
 
+
+
+
 CHAPTER V. Sammy Mills
 
-
-"There ought to be a license agin book agents," said Pap Briggs
-spitefully, when Eliph' Hewlitt had hurried away.
+ "There ought to be a license agin book agents," said Pap Briggs spitefully, when Eliph' Hewlitt had hurried away.
 
 "It wouldn't harm that feller," said Wilkins. "He's a red hot one at
 book-agenting, he is, an' he'd find out some way to git round it. I
@@ -1858,8 +1872,10 @@ Briggs. "There ought to be a license agin all of 'em."
 
 
 
-CHAPTER VI. The Castaway
 
+
+
+CHAPTER VI. The Castaway
 
 Eliph' Hewlitt, when he reached the large, yellow house, found the door
 open. The sale was well over. The gingham aprons and the cat-stitched
@@ -1914,7 +1930,7 @@ She saw him and caught her breath, as if the sight had frightened her,
 but when he nodded she could not refuse to return the salutation. She
 nodded as coldly as she knew how, and hurried to the most distant corner
 of the room. Eliph' was well enough pleased with this reception, for he
-would hardly have know what to do with a warmer one; in many years he
+would hardly have known what to do with a warmer one; in many years he
 had received only the book agent's usual greeting, which is far from
 cordial. She had nodded to him, at any rate, and he felt a glow of
 satisfaction.
@@ -2053,8 +2069,8 @@ I'll just take another peek at this book,' and I opened her. Page
 781," said Eliph', turning quickly to that page, "was where she opened.
 'Swimming; How to Float, Swim, Dive, and Tread Water--Plain and Fancy
 Swimming, Shadow Swimming, High Diving,' et cetery. There she was, all
-as plain as pie, and when I read it I could swim as easy as an old
-hand. The direction al through this book is plain, practical, and easily
+as plain as pie, and when I read it I could swim as easy as an old hand.
+The direction all through this book is plain, practical, and easily
 followed.
 
 "I at once swum off to the south, for there was no telling how long I'd
@@ -2103,7 +2119,7 @@ I turned to the index, where every subject known to the vast realm of
 knowledge is set down alphabetically, from 'A' to 'Z', twenty thousand
 references in all, dealing with every subject from the time of Adam to
 the present day, including, in the new and revised edition just from
-the press, a history of the war with Spain, with pull page portraits
+the press, a history of the war with Spain, with full page portraits
 of Dewey, Sampson, Cervera, and the boy king, and colored plates of the
 battles of Manila Bay and Santiago. I run my eye down the page till I
 came to 'Drowned, How to Revive the,' page 96; and what I read there
@@ -2240,8 +2256,10 @@ live here."
 
 
 
-CHAPTER VII. The Colonel
 
+
+
+CHAPTER VII. The Colonel
 
 When Eliph' Hewlitt stepped out of the hotel the next morning, after he
 had eaten his breakfast, and stood, with a wooden toothpick between his
@@ -2269,7 +2287,7 @@ town that could all be seen at one glance.
 Strangers think all small towns simple. The few stores are all plainly
 labeled, the streets run at right angles, and the houses are set well
 apart, like big letters in a primer. A small town looks like a story
-without a plot, like: "See the cat. Does the can see me? The cat sees
+without a plot, like: "See the cat. Does the cat see me? The cat sees
 the dog;" beside which a city is as unfathomable as a Henry James
 paragraph. To the stranger each man and woman he meets is a complete
 individual, each standing alone, like letters on an alphabet block, and
@@ -2366,8 +2384,10 @@ ready to buy. If she' goin' to be married she ought to have a copy."
 
 
 
-CHAPTER VIII. The Medium-Sized Box
 
+
+
+CHAPTER VIII. The Medium-Sized Box
 
 As Eliph' walked briskly toward Miss Sally's house the Colonel
 was having an interesting conversation with Attorney Toole, in the
@@ -2408,10 +2428,10 @@ face, but because he found things so eternally amusing. In law a man is
 considered innocent until he has been proved guilty; in Kilo Attorney
 Toole considered everything amusing until it had been proved serious,
 and he considered the Colonel and Skinner, and the whole Citizens' Party
-they had been instrumental I organizing, as parts of the same joke. They
-would stand until he was ready to lazily push out his hand and topple
-them over. It was almost time to topple them, now, and he was glad to
-see the Colonel; he motioned him to a seat, and smiled.
+they had been instrumental in organizing, as parts of the same joke.
+They would stand until he was ready to lazily push out his hand and
+topple them over. It was almost time to topple them, now, and he was
+glad to see the Colonel; he motioned him to a seat, and smiled.
 
 The Colonel took his hat from his mat of coarse iron-gray hair, and laid
 it carefully on the floor. Out of his small sharp eyes ignorance and
@@ -2646,8 +2666,10 @@ down the stairs.
 
 
 
-CHAPTER IX. The Witness
 
+
+
+CHAPTER IX. The Witness
 
 When Eliph' Hewlitt reached the Briggs house, he did not hesitate, but
 walked right up to the front door and rang the bell. A minute later he
@@ -2664,7 +2686,7 @@ before going to the back door, for it may be that the lady of the house
 is dressing, or is hastily taking the folded paper "curlers" out of
 her front hair, or slipping on her "other skirt" before admitting the
 visitor. Few indeed are the front doors in Iowa that open promptly to a
-knock or a ring. Primping time must be allowed, ad if this, followed
+knock or a ring. Primping time must be allowed, and if this, followed
 by a second ring or knock, does not open the door, nothing but business
 permits the visitor to go to the back door. Having waited, Eliph' went
 to the back door. It closed almost as he reached it, and it would not
@@ -2869,8 +2891,10 @@ unable now to escape him, seated herself as far from him as she could.
 
 
 
-CHAPTER X. The Boss Grafter
 
+
+
+CHAPTER X. The Boss Grafter
 
 Eliph' Hewlitt was resolved that into this interview no words regarding
 Jarby's Encyclopedia of Knowledge and Compendium of Literature, Science
@@ -3026,11 +3050,11 @@ went out, pausing at the door to look back and grin at the attorney once
 more.
 
 Mr. Skinner was trimming a roast. He had just cut off a piece of suet,
-which he held in his plump read hand as he listened to the Colonel's
-proposition to sell him four nickel-plated fire-extinguishers at ten
-dollars each. Perhaps the Colonel spoke to impetuously; to commandingly.
-Skinner held the lump of suet offensively near the Colonel's nose as he
-answered.
+which he held in his plump red hand as he listened to the Colonel's
+proposition to sell him four nickel-plated fire-extinguishers at
+ten dollars each. Perhaps the Colonel spoke too impetuously; too
+commandingly. Skinner held the lump of suet offensively near the
+Colonel's nose as he answered.
 
 "Fire-extinguishers!" he laughed. "Me buy fire-extinguishers? I wouldn't
 give THAT for them."
@@ -3092,7 +3116,7 @@ him eat 'em."
 "Colonel," said Toole, "I see you are, as always, guided by a spirit of
 conservative kindness. You hesitate to force that butcher to do what he
 does not want to do. The feeling does you honor, but is it business? You
-hesitate even when you see how easily your could force him to do what he
+hesitate even when you see how easily you could force him to do what he
 is in duty bound to do to protect the lives of our trustful citizens.
 I admire your gentleness, but I deplore your unbusinesslike moderation.
 You lack public spirit."
@@ -3309,7 +3333,7 @@ The Colonel looked the mayor squarely in the eye.
 Skinner. I come to you first, an' I was the first to say I'd make you
 a present, an' you ought to pass that ordinance anyhow. But to shut up
 this thing right here an' now, I'll do this: if you'll say you'll
-pas that ordinance like I want, so Skinner'll have to buy them four
+pass that ordinance like I want, so Skinner'll have to buy them four
 nickel-plated fire-extinguishers that Miss Briggs owns, at twenty-five
 dollars each, I'll give you four bushels of Benoni apples, two bushels
 of Early Rose potatoes, four bunches of celery, a peck of peas, and
@@ -3342,8 +3366,10 @@ butcher's bill should.
 
 
 
-CHAPTER XI. The False Gods of Doc Weaver
 
+
+
+CHAPTER XI. The False Gods of Doc Weaver
 
 When Eliph' Hewlitt reached the hotel after his unfortunate visit of
 courtship, he stood a minute irresolute, and then the sign of the KILO
@@ -3463,7 +3489,7 @@ T. J. smiled and mentioned his rate for the space. It was not much, and
 Eliph' nodded.
 
 "Every week, until forbid," he said, "and I guess I'd better subscribe.
-I am going to live right her in Kilo right along now, and the man that
+I am going to live right here in Kilo right along now, and the man that
 don't take his home paper never knows what is going on."
 
 T. J. was pleased. He was more pleased when Eliph' pulled a long purse
@@ -3501,8 +3527,8 @@ because of its unassuming simplicity. His real name is Samuel Mills, and
 he is the son of the late W. P. Mills, of Franklin, gifted author of the
 deservedly famous poetical work, 'The wages of Sin.' Early in his career
 our new citizen found himself overshadowed by the fame of his father,
-and unwilling to succeed buy by and because of his own efforts, he
-chose a NOM DE PLUME, which he has ever since used. This truly American
+and unwilling to succeed by and because of his own efforts, he chose
+a NOM DE PLUME, which he has ever since used. This truly American
 independence does him the greatest credit.
 
 "Mr. Mills, or Eliph' Hewlitt, as he prefers to be known, is an old
@@ -3511,7 +3537,7 @@ little burg. Again we welcome him to our midst."
 
 This was headed, "Eliph' Hewlitt Now a Citizen of Kilo!" and it was all
 the introduction the little book agent needed--except to Miss Sally.
-When se read it she turned pale. A book agent living in the very town
+When she read it she turned pale. A book agent living in the very town
 was more than she could bear.
 
 But there was another item of news that Eliph' left with T. J. that went
@@ -3545,7 +3571,7 @@ The doctor had few opportunities for discussing any subjects but the
 most ordinary. Neighborhood gossip, the weather, the price of corn, were
 the usual sources of conversation in Kilo, except when an election gave
 a political tinge to discussions, or when a revival turned all attention
-to religious matters; but the doctor's mind scorned these limitation,
+to religious matters; but the doctor's mind scorned these limitations,
 and he found few persons from year's end to year's end to whom he could
 speak openly on his favorite themes.
 
@@ -4073,8 +4099,10 @@ part of a wife."
 
 
 
-CHAPTER XII. Getting Acquainted
 
+
+
+CHAPTER XII. Getting Acquainted
 
 Althought Eliph' Hewlitt was not making much progress in his courtship
 he was far from idle in the succeeding weeks. He had taken many orders
@@ -4182,7 +4210,7 @@ and for a minute they walked in silence. Suddenly she looked up and
 spoke.
 
 "Miss Sally," she exclaimed, "I know what to do! I will make you a
-present of y encyclopedia. I will give it to you, and the next time you
+present of my encyclopedia. I will give it to you, and the next time you
 see Mr. Hewlitt you can tell him you have a copy, and then he will leave
 you alone!"
 
@@ -4349,8 +4377,10 @@ Affections; How to Hold Them When Won."
 
 
 
-CHAPTER XIII. "Second: A Small Present"
 
+
+
+CHAPTER XIII. "Second: A Small Present"
 
 The next morning Eliph' Hewlitt purchased the two-pound box of candy in
 the pictured box that had long been considered by the druggist a foolish
@@ -4450,8 +4480,8 @@ Sometimes I feel like in the end I'd choose to marry the Colonel, since
 it wouldn't be so much of a change, the Colonel bein' like pa in some
 ways, such as bein' economical; and then again I feel like I'd prefer
 Skinner, just because he'd BE a change. I'd be always sure of gettin'
-good meat, for one thing, and I'd insist upon it. I can't a-bear tough
-meat.
+good meat, for one thing, and I'd insist upon it. I can't a-bare tough
+meat."
 
 "Shoemakers' children go without shoes," suggested Mrs. Smith.
 
@@ -4500,7 +4530,7 @@ candy--although Miss Sally had left no such word--and drew him on to
 talk of Jarby & Goss, the publishers of the Encyclopedia, and of his
 own adventures. The longer she talked with the little man the better her
 opinion of him became, and she saw that he was gentle, shrewd, capable
-and sincere--sincere evening his wildest enthusiasm for Jarby's
+and sincere--sincere even in his wildest enthusiasm for Jarby's
 Encyclopedia of Knowledge and Compendium of Literature, Science and Art.
 When he arose to go he stood a moment hesitatingly with his hat in his
 hand. He coughed apologetically.
@@ -4545,7 +4575,7 @@ I wish you all the good fortune in the world. I shall do all I can to
 help you."
 
 "Thank you," said Eliph', shaking her hand as if she was an old
-acquaintance he ad met after long years of separation. "So you
+acquaintance he had met after long years of separation. "So you
 understand that I can feel the same to no other woman. Not even to--to
 anyone." He wiped his forehead with his disengaged hand. "So I feel that
 you will not misunderstand me if I ask you to accept a copy of Jarby's
@@ -4584,8 +4614,10 @@ hurry. Something may turn up."
 
 
 
-CHAPTER XIV. Something Turns Up
 
+
+
+CHAPTER XIV. Something Turns Up
 
 Something turned up the very next day. It turned all Kilo upside down as
 nothing had for years, and created such a demand for the TIMES that J.
@@ -4775,12 +4807,12 @@ he suddenly cried out. Eliph' searched hurriedly in his pockets for
 another pair of spectacles, found them and put them on, and looked where
 the editor pointed. Across the street the attorney, backed up against
 the wall of the bank, was defending his face with one arm, and with his
-right hand seeking to grasp a ship that was raining blows upon his face
+right hand seeking to grasp a whip that was raining blows upon his face
 and head. Someone grasped the whip from behind and wrenched it from the
 hand of the attorney's assailant, and as the man turned angrily, the two
 in the window saw that it was Colonel Guthrie.
 
-They heard him cursing those who had taken the ship from him, ending by
+They heard him cursing those who had taken the whip from him, ending by
 loudly justifying himself for what he had done to the attorney, and saw
 the attorney step forward to quell the Colonel's hot words. The Colonel
 put up both his hands and shouted, and some from the crowd, grasping
@@ -4901,8 +4933,10 @@ extra edition of the TIMES out to-morrow."
 
 
 
-CHAPTER XV. Difficulties
 
+
+
+CHAPTER XV. Difficulties
 
 Eliph' had said nothing to Doc Weaver about the affair of the
 fire-extinguishers, he had known nothing of the graft matter, and yet
@@ -5009,8 +5043,8 @@ taste of what comes of taking the political lead away from the party
 to which it rightly belongs. You have had an experience of what happens
 when people who know nothing about politics meddle with thing that
 the natural political leaders should be left to handle. You have been
-choked, and you have been cheated, and you deserve to be kicked. You
-pay money to this editor her in town, for an advertisement that you know
+choked, and you have been cheated, and you deserve to be kicked. You pay
+money to this editor here in town, for an advertisement that you know
 does you no good, and in return he prints an article to make you laughed
 at. You form a combination with Guthrie to put in outsiders instead of
 good party men, and Guthrie uses his pull to have an ordinance passed to
@@ -5166,8 +5200,10 @@ for years.
 
 
 
-CHAPTER XVI. Two Lovers, and a Third
 
+
+
+CHAPTER XVI. Two Lovers, and a Third
 
 The attorney, when Eliph' walked down the path to the gate, entered the
 house, and found Miss Sally still sitting in the dark parlor where she
@@ -5452,8 +5488,10 @@ apologetic cough, announced the return of Eliph' Hewlitt.
 
 
 
-CHAPTER XVII. According to Jarby's
 
+
+
+CHAPTER XVII. According to Jarby's
 
 When Eliph' Hewlitt, sad at heart, departed from his disastrous
 interview with Miss Sally, he felt, for the first time in his life, a
@@ -5783,8 +5821,9 @@ life, sold his sample copy.
 
 
 
-CHAPTER XVIII. Another Trial
 
+
+CHAPTER XVIII. Another Trial
 
 When Eliph' stepped out of the butcher shop he saw T. J. Jones across
 the street, returning from his interview with Mrs. Smith, and the book
@@ -5808,7 +5847,7 @@ Bird--of a feather, Bird--killing two with one stone,' et cetery,
 including 'Leap--look before you,' and 'Sure--be sure you're right, then
 go ahead.' What do you mean to print?"
 
-The editor told him all he had been able to gather regarding the matte
+The editor told him all he had been able to gather regarding the matter
 of the fire-extinguishers, and as he talked Eliph' saw the butcher leave
 his shop and enter the drug store--he was after chemicals. He turned to
 the editor with fresh assurance.
@@ -5923,7 +5962,7 @@ carefully. Never had he appeared smarter than when he went out of the
 gateless opening in Doc Weaver's fence, and turned his face toward Miss
 Sally's home.
 
-His way led him pas the mayor's little car, where Stitz was on his
+His way led him past the mayor's little car, where Stitz was on his
 platform smoking and evening pipe. The mayor halted him with a motion of
 his pipe stem.
 
@@ -6143,8 +6182,9 @@ table.
 
 
 
-CHAPTER XIX. Pap Briggs' Hen Food
 
+
+CHAPTER XIX. Pap Briggs' Hen Food
 
 The doubt that Miss Sally had expressed regarding Pap Briggs' acceptance
 of Eliph' Hewlitt as a son-in-law was mild compared with the fact. When
@@ -6307,9 +6347,10 @@ that he could eat a dozen, after his long fast.
 
 "It do seem good to have eggs agin," he said.
 
-That evening, and the next evening he deposited three eggs as before. On
-the third morning Sally said: "It's queer about them hens, Pap; they lay,
-but they don't cluck like a hen generally does when she lays an egg."
+That evening, and the next evening he deposited three eggs as before.
+On the third morning Sally said: "It's queer about them hens, Pap; they
+lay, but they don't cluck like a hen generally does when she lays an
+egg."
 
 Pap hesitated for a moment.
 
@@ -6417,7 +6458,7 @@ Pap looked at the mushy piece of toast and grinned sheepishly.
 married a man that felt he had to hev eggs every morning. They'd be two
 of us then."
 
-"Well, Id just have to buy eggs then," she said, "if that come to pass.
+"Well, I'd just have to buy eggs then," she said, "if that come to pass.
 I couldn't expect these few hens to lay enough eggs in winter for two
 men. If I had to buy eggs for a husband, I'd buy them."
 
@@ -6444,165 +6485,169 @@ so."
 
 
 
+
+
+
+
+
+
+
 End of the Project Gutenberg EBook of Kilo, by Ellis Parker Butler
 
 *** END OF THIS PROJECT GUTENBERG EBOOK KILO ***
 
-***** This file should be named 3427-8.txt or 3427-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/4/2/3427/
+***** This file should be named 3427-8.txt or 3427-8.zip ***** This and
+all associated files of various formats will be found in:        http://www.gutenberg.org/3/4/2/3427/
 
-Produced by Linda P. Kemper-Holzman
+Produced by Linda P. Kemper-Holzman, and David Widger
 
-Updated editions will replace the previous one--the old editions
-will be renamed.
 
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in
+the General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You
+may use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
 *** START: FULL LICENSE ***
 
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU
+DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License (available with this file or online at
 http://gutenberg.org/license).
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree
+to and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all the
+terms of this agreement, you must cease using and return or destroy all
+copies of Project Gutenberg-tm electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
+1.B. "Project Gutenberg" is a registered trademark. It may only be used
+on or associated in any way with an electronic work by people who agree
+to be bound by the terms of this agreement. There are a few things that
+you can do with most Project Gutenberg-tm electronic works even without
+complying with the full terms of this agreement. See paragraph 1.C
+below. There are a lot of things you can do with Project Gutenberg-tm
+electronic works if you follow the terms of this agreement and help
+preserve free future access to Project Gutenberg-tm electronic works.
+See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+Gutenberg-tm electronic works. Nearly all the individual works in
+the collection are in the public domain in the United States. If an
+individual work is in the public domain in the United States and you
+are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
+derivative works based on the work as long as all references to Project
+Gutenberg are removed. Of course, we hope that you will support the
+Project Gutenberg-tm mission of promoting free access to electronic
+works by freely sharing Project Gutenberg-tm works in compliance with
+the terms of this agreement for keeping the Project Gutenberg-tm name
+associated with the work. You can easily comply with the terms of this
+agreement by keeping this work in the same format with its attached
+full Project Gutenberg-tm License when you share it without charge with
+others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are in
+a constant state of change. If you are outside the United States, check
 the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
+before downloading, copying, displaying, performing, distributing
+or creating derivative works based on this work or any other Project
+Gutenberg-tm work. The Foundation makes no representations concerning
 the copyright status of any work in any country outside the United
 States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
+1.E.1. The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+or charges. If you are redistributing or providing access to a work with
+the phrase "Project Gutenberg" associated with or appearing on the work,
+you must comply either with the requirements of paragraphs 1.E.1 through
+1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
+terms imposed by the copyright holder. Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
+1.E.5. Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+word processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other
+than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the full
+Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing access
+to or distributing Project Gutenberg-tm electronic works provided that
 
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
+- You pay a royalty fee of 20% of the gross profits you derive from     the use of Project Gutenberg-tm works calculated using the method
      you already use to calculate your applicable taxes.  The fee is
      owed to the owner of the Project Gutenberg-tm trademark, but he
      has agreed to donate royalties under this paragraph to the
@@ -6614,84 +6659,79 @@ that
      address specified in Section 4, "Information about donations to
      the Project Gutenberg Literary Archive Foundation."
 
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+- You provide a full refund of any money paid by a user who notifies     you in writing (or by e-mail) within 30 days of receipt that s/he
      does not agree to the terms of the full Project Gutenberg-tm
      License.  You must require such a user to return or
      destroy all copies of the works possessed in a physical medium
      and discontinue all use of and all access to other copies of
      Project Gutenberg-tm works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
+- You provide, in accordance with paragraph 1.F.3, a full refund of any     money paid for a work or a replacement copy, if a defect in the
      electronic work is discovered and reported to you within 90 days
      of receipt of the work.
 
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+- You comply with all other terms of this agreement for free     distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set forth
+in this agreement, you must obtain permission in writing from both the
+Project Gutenberg Literary Archive Foundation and Michael Hart, the
+owner of the Project Gutenberg-tm trademark. Contact the Foundation as
+set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+public domain works in creating the Project Gutenberg-tm collection.
+Despite these efforts, Project Gutenberg-tm electronic works, and the
+medium on which they may be stored, may contain "Defects," such as, but
+not limited to, incomplete, inaccurate or corrupt data, transcription
+errors, a copyright or other intellectual property infringement, a
+defective or damaged disk or other medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
+liability to you for damages, costs and expenses, including legal fees.
+YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
+BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
+PARAGRAPH F3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND
+ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR
+ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES
+EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect
+in this electronic work within 90 days of receiving it, you can receive
+a refund of the money (if any) you paid for it by sending a written
+explanation to the person you received the work from. If you received
+the work on a physical medium, you must return the medium with your
+written explanation. The person or entity that provided you with the
+defective work may elect to provide a replacement copy in lieu of a
+refund. If you received the work electronically, the person or entity
 providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
+receive the work electronically in lieu of a refund. If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
 interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
+the applicable state law. The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
 promotion and distribution of Project Gutenberg-tm electronic works,
@@ -6702,44 +6742,44 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
+including obsolete, old, middle-aged and new computers. It exists
 because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
 assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
+goals and ensuring that the Project Gutenberg-tm collection will remain
+freely available for generations to come. In 2001, the Project Gutenberg
+Literary Archive Foundation was created to provide a secure and
+permanent future for Project Gutenberg-tm and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org.
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Section 3. Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+501(c)(3) educational corporation organized under the laws of the state
+of Mississippi and granted tax exempt status by the Internal Revenue
+Service. The Foundation's EIN or federal tax identification number
+is 64-6221541. Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising. Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
 permitted by U.S. federal laws and your state's laws.
 
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
+throughout numerous locations. Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887,
+email business@pglaf.org. Email contact links and up to date contact
+information can be found at the Foundation's web site and official page
+at http://pglaf.org
 
 For additional contact information:
      Dr. Gregory B. Newby
@@ -6747,61 +6787,64 @@ For additional contact information:
      gbnewby@pglaf.org
 
 
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+Section 4. Information about Donations to the Project Gutenberg Literary
+Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
+Project Gutenberg-tm depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array
+of equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status with
+the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit http://pglaf.org
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
 
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside
+the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
+methods and addresses. Donations are accepted in a number of other ways
+including checks, online payments and credit card donations. To donate,
+please visit: http://pglaf.org/donate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section 5. General Information About Project Gutenberg-tm electronic
 works.
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
+with anyone. For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
 
 Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as Public Domain in the U.S. unless
+a copyright notice is included. Thus, we do not necessarily keep eBooks
+in compliance with any particular paper edition.
 
 
 Most people start at our Web site which has the main PG search facility:
 
      http://www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+This Web site includes information about Project Gutenberg-tm, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe to
+our email newsletter to hear about new eBooks.
+
+
+
